@@ -13,3 +13,6 @@
 
 # Logs
 *.log
+
+# Local tooling, not part of the published site
+scripts/
